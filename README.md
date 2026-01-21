@@ -29,7 +29,7 @@ An AI-powered chatbot for customer support.
   - Menu-based navigation
   - Knowledge base integration
   - Quiz & FAQ flows
-- Demo: https://your-bot-link
+- Demo: [https://your-bot-link](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)
 - Documentation: `/project-2-botpress-chatbot`
 
 ---
