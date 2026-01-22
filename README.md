@@ -60,22 +60,8 @@ Overview
 A collaborative project to build an AI-powered support chatbot that provides instant, context-aware responses to user queries.
 
 Platform / Tools
-
-Python
-
-Google Gemini API
-
-My Contributions
-
-Implemented backend logic using Python
-
-Integrated the Google Gemini API for AI-generated responses
-
-Designed prompt structure and response handling
-
-Tested chatbot accuracy, edge cases, and error handling
-
-Collaborated with team members using shared documentation and GitHub
+- Python
+- Google Gemini API
 
 Live Demo: https://your-group-project-link
 Documentation: /group-project-1
