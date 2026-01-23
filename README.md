@@ -1,6 +1,7 @@
 Portfolio – Samkelisiwe 
 
-About Me
+About Me  
+
 I am an aspiring software / no-code developer with experience building
 real-world applications using platforms like Glide, Botpress, and automation tools.
 I focus on solving business problems using scalable no-code solutions.
@@ -27,7 +28,7 @@ An AI-powered chatbot for customer support.
   - Menu-based navigation
   - Knowledge base integration
   - Quiz & FAQ flows
-- Demo: [https://your-bot-link](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)
+- Live Demo: [https://your-bot-link](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)
 - Documentation: `/project-2-botpress-chatbot`
 
 
@@ -39,7 +40,7 @@ An automation that connects forms, email, and data storage.
   - Auto data processing
   - Email notifications
   - Error handling
-- Demo: [(https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )](https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )
+- Live Demo: [(https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )](https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )
 
 
 Skills Demonstrated
