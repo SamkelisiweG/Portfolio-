@@ -39,7 +39,7 @@ An automation that connects forms, email, and data storage.
   - Auto data processing
   - Email notifications
   - Error handling
-- Demo: [`/project-3-automation`](https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )
+- Demo: [(https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )](https://docs.google.com/forms/d/e/1FAIpQLScE710L-PSHlDVvyaUSQ9l95LRJPn3XXa28OvlJ_Coczge3KQ/viewform?usp=header )
 
 
 Skills Demonstrated
