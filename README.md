@@ -29,7 +29,7 @@ An AI-powered chatbot for customer support.
   - Knowledge base integration
   - Quiz & FAQ flows
 - Live Demo: [https://your-bot-link](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/27/11/20251027112903-PLNSXSM0.json)
-- Documentation: `/project-2-botpress-chatbot`
+
 
 
 Custom Content Generator
@@ -52,10 +52,10 @@ Skills Demonstrated
 
 
 Group Projects
-Example Group Project – AI Support Chatbot
+AI Support Chatbot
 
 Team Size: 4 members
-My Role: No-code chatbot developer (Botpress)
+
 
 Overview
 A collaborative project to build an AI-powered support chatbot that provides instant, context-aware responses to user queries.
