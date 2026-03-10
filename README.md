@@ -53,13 +53,13 @@ Skills Demonstrated
 
 Group Projects
 
-AI Support Chatbot
-
 Team Size: 4 members
-
 
 Overview
 A collaborative project to build an AI-powered support chatbot that provides instant, context-aware responses to user queries.
+
+
+AI Support Chatbot
 
 Platform / Tools
 - Python
@@ -69,10 +69,15 @@ Live Demo: https://your-group-project-link
 Documentation: /group-project-1
 
 
-
-
-
 Sentiment Analysis
 
-
+Platform / Tools
+- Python
+- Google Gemini API
+  
 Live Demo : https://sentiment-aq3mkbathyvjf5yuo5egaa.streamlit.app/
+
+
+Bias Audit
+
+Live Demo : https://colab.research.google.com/drive/1Pqb8i1eR-wwaGaEUdKfm6o5aWA9u-wU2?usp=sharing
