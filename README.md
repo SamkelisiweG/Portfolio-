@@ -66,7 +66,7 @@ Platform / Tools
 - Google Gemini API
 
 Live Demo: https://your-group-project-link
-Documentation: /group-project-1
+Documentation: /group-project-1 
 
 
 Sentiment Analysis
