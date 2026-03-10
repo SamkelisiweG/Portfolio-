@@ -52,6 +52,7 @@ Skills Demonstrated
 
 
 Group Projects
+
 AI Support Chatbot
 
 Team Size: 4 members
@@ -66,3 +67,9 @@ Platform / Tools
 
 Live Demo: https://your-group-project-link
 Documentation: /group-project-1
+
+
+Sentiment Analysis
+
+
+Live Demo : https://sentiment-aq3mkbathyvjf5yuo5egaa.streamlit.app/
